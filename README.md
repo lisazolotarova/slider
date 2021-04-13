@@ -1,3 +1,3 @@
 # slider
 
-yarn start
+yarn start //run project

@@ -1,0 +1,3 @@
+# slider
+
+yarn start
